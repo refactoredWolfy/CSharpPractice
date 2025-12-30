@@ -1,4 +1,6 @@
-﻿for(int i = 1; i<= 20; i++)
+﻿// Day01 - FizzBuzz
+
+for(int i = 1; i<= 20; i++) // Practice
 {
     if (i % 3 == 0 && i % 5 == 0)
         Console.WriteLine("FizzBuzz");
